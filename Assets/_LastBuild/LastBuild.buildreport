@@ -1,2124 +1,1963 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1126 &-9200036047485485343
+--- !u!641289076 &-8763727174411755068
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 0
+  m_AudioMixerCount: 0
+--- !u!1126 &-7659427535605800398
 PackedAssets:
   m_File: 1
   m_ShortPath: BuildPlayer-uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH.sharedAssets
-  m_Overhead: 114835
+  m_Overhead: 114803
   m_Contents:
   - fileID: 1
     classID: 150
     packedSize: 121
-    offset: 117264
+    offset: 117232
     sourceAssetGUID: 00000000000000000000000000000000
     buildTimeAssetPath: 
   - fileID: 2
     classID: 142
     packedSize: 200
-    offset: 117392
+    offset: 117360
     sourceAssetGUID: 00000000000000000000000000000000
     buildTimeAssetPath: 
   - fileID: 3
     classID: 21
     packedSize: 1064
-    offset: 117592
+    offset: 117560
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 4
     classID: 21
     packedSize: 252
-    offset: 118656
+    offset: 118624
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 5
     classID: 21
     packedSize: 416
-    offset: 118912
+    offset: 118880
     sourceAssetGUID: 416c08a3c3b6d78408b20c5c3cdb7209
     buildTimeAssetPath: Assets/Materials/bonnie.mat
   - fileID: 6
     classID: 21
     packedSize: 420
-    offset: 119328
+    offset: 119296
     sourceAssetGUID: 921276f649fa7224198739663d7053c2
     buildTimeAssetPath: Assets/Materials/download (3).mat
   - fileID: 7
     classID: 21
     packedSize: 680
-    offset: 119752
+    offset: 119720
     sourceAssetGUID: 5f9bbf478c2b961468f0472188c111fb
     buildTimeAssetPath: Assets/USharpVideo/Materials/UIMaterial.mat
   - fileID: 8
     classID: 21
     packedSize: 1036
-    offset: 120432
+    offset: 120400
     sourceAssetGUID: f9f0ca4e1c93d7c449df855cc90deab0
     buildTimeAssetPath: Assets/USharpVideo/Materials/VideoScreen.mat
   - fileID: 9
     classID: 21
     packedSize: 2112
-    offset: 121472
+    offset: 121440
     sourceAssetGUID: 7948a8a92ff13ba4eb2325ddc8339b74
     buildTimeAssetPath: Assets/VRCMarker/Material/Marker.mat
   - fileID: 10
     classID: 21
     packedSize: 500
-    offset: 123584
+    offset: 123552
     sourceAssetGUID: c140e04943058f14595009983640dc93
     buildTimeAssetPath: Assets/VRCMarker/Material/Trail.mat
   - fileID: 11
     classID: 21
     packedSize: 720
-    offset: 124088
+    offset: 124056
     sourceAssetGUID: 7a9f7979e3453854993a604f15d63351
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/106503.53aa6acc085d2/HUG ARMCHAIR
       602.014/New Material.mat
   - fileID: 12
     classID: 21
     packedSize: 688
-    offset: 124808
+    offset: 124776
     sourceAssetGUID: c04537e5618663c498a57e5117df54bc
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/BoConcept Imola armchair/export/New
       Material.mat
   - fileID: 13
     classID: 21
     packedSize: 688
-    offset: 125496
+    offset: 125464
     sourceAssetGUID: 7a8eaaba1725c5348a407c462fa38351
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/officechair-3db3-32123/office
       chair/CHANcvdve.mat
   - fileID: 14
     classID: 21
     packedSize: 680
-    offset: 126184
+    offset: 126152
     sourceAssetGUID: 04c685e2c6e8e6f40abead474a0db6a7
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/officechair-3db3-32123/office
       chair/INOX.mat
   - fileID: 15
     classID: 21
     packedSize: 688
-    offset: 126864
+    offset: 126832
     sourceAssetGUID: a9387c9f41f422045837923e5eae8443
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/officechair-3db3-32123/office
       chair/New Material.mat
   - fileID: 16
     classID: 21
     packedSize: 684
-    offset: 127552
+    offset: 127520
     sourceAssetGUID: 1034825af148f2349bca2763ae52e255
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/officechair-3db3-32123/office
       chair/cloth 02.mat
   - fileID: 17
     classID: 21
     packedSize: 716
-    offset: 128240
+    offset: 128208
     sourceAssetGUID: aeecfb1165c131f4ca5ea7c2538223d7
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/Cube.008_chrome_Cube.008_chrome_frameMat.mat
   - fileID: 18
     classID: 21
     packedSize: 740
-    offset: 128960
+    offset: 128928
     sourceAssetGUID: 3dbc74001dd739e40891fc9487528d6a
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/Cylinder.001_silver_s_Cylinder.001_silver_s_silver_spraypaintMat.mat
   - fileID: 19
     classID: 21
     packedSize: 692
-    offset: 129704
+    offset: 129672
     sourceAssetGUID: afc0d38c05bcd324dafdb50f5977daed
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/M_0136_Charcoal.mat
   - fileID: 20
     classID: 21
-    packedSize: 584
-    offset: 130400
+    packedSize: 720
+    offset: 130368
     sourceAssetGUID: cd1df1ede3c429d4c9a792d180146920
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/Translucent_Glass_Gray.mat
   - fileID: 21
     classID: 21
     packedSize: 704
-    offset: 130984
+    offset: 131088
     sourceAssetGUID: d59f93e1e7176854db2e2131dc579746
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/_Metal_Corrogated_Shiny_1.mat
   - fileID: 22
     classID: 21
     packedSize: 688
-    offset: 131688
+    offset: 131792
     sourceAssetGUID: 9eddbb01ec81eb24aa810c536e927823
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/glass_mat.mat
   - fileID: 23
     classID: 21
     packedSize: 700
-    offset: 132376
+    offset: 132480
     sourceAssetGUID: 3948d92a9dc5c924d92de7ef102fc307
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/props_mat.mat
   - fileID: 24
     classID: 21
     packedSize: 704
-    offset: 133080
+    offset: 133184
     sourceAssetGUID: 462bef8cb7c14c44084819b3e4400bde
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/window_frame_mat.mat
   - fileID: 25
     classID: 21
     packedSize: 684
-    offset: 133784
+    offset: 133888
     sourceAssetGUID: 89da9131ea7865c4db0feae19c40a8cb
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/wire_mat.mat
   - fileID: 26
     classID: 21
     packedSize: 692
-    offset: 134472
+    offset: 134576
     sourceAssetGUID: 9a13a849b3564fd4c9bc9798755ad979
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx/doors_fbx/Materials/door_single_AO.mat
   - fileID: 27
     classID: 21
     packedSize: 808
-    offset: 135168
+    offset: 135272
     sourceAssetGUID: b4df198402bd30149ad270d219fee2a2
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx/doors_fbx/Materials/door_single_Albedo.mat
   - fileID: 28
     classID: 21
     packedSize: 692
-    offset: 135976
+    offset: 136080
     sourceAssetGUID: df962c5c1d5002040a0bf5321efec403
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx/doors_fbx/Materials/wire_Roughness.mat
   - fileID: 29
     classID: 21
     packedSize: 688
-    offset: 136672
+    offset: 136776
     sourceAssetGUID: 20d4c24965a6db045a293521f9d7d8e8
     buildTimeAssetPath: Assets/Worlds/Assets/Exit Sign/Glass-Lamp.mat
   - fileID: 30
     classID: 21
     packedSize: 688
-    offset: 137360
+    offset: 137464
     sourceAssetGUID: cbde2ae752ecea34c967f275ef96f84b
     buildTimeAssetPath: Assets/Worlds/Assets/Glass-Lamp.mat
   - fileID: 31
     classID: 21
     packedSize: 436
-    offset: 138048
+    offset: 138152
     sourceAssetGUID: 7afd66e296eb495429099e5c7ce4e2e7
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Base_02/Materials/Concrete_Base_02_Base_Color.mat
   - fileID: 32
     classID: 21
     packedSize: 448
-    offset: 138488
+    offset: 138592
     sourceAssetGUID: f95232f125e7fe247a84bd04913d4ba1
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Brushed_01/Materials/Concrete_Brushed_01_Ambient_Occlusion.mat
   - fileID: 33
     classID: 21
     packedSize: 712
-    offset: 138936
+    offset: 139040
     sourceAssetGUID: fccadbcb416a6ec4c83afe053707856e
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Rough_01/Materials/Concrete_Rough_01_Ambient_Occlusion.mat
   - fileID: 34
     classID: 21
     packedSize: 720
-    offset: 139648
+    offset: 139752
     sourceAssetGUID: 7efdc1c6c5bd88542bbc67ed59967497
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Rough_01/Materials/Concrete_Rough_01_Normal.mat
   - fileID: 35
     classID: 21
     packedSize: 712
-    offset: 140368
+    offset: 140472
     sourceAssetGUID: af5fad5f5bb3ce44180859ec29986a9d
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Rough_01/Materials/Concrete_Rough_01_Roughness
       - Copy.mat
   - fileID: 36
     classID: 21
     packedSize: 704
-    offset: 141080
+    offset: 141184
     sourceAssetGUID: 60354ce9712185649ac88952bf3f9f9d
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Rough_01/Materials/Concrete_Rough_01_Roughness.mat
   - fileID: 37
     classID: 21
     packedSize: 552
-    offset: 141784
+    offset: 141888
     sourceAssetGUID: 6d7dba67a4cbf2f418466526a68caa0d
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_WoodPattern_01/Materials/Concrete_WoodPattern_01_Height.mat
   - fileID: 38
     classID: 21
     packedSize: 692
-    offset: 142336
+    offset: 142440
     sourceAssetGUID: 7355f662e6bdf0843898c95b1d266c07
     buildTimeAssetPath: Assets/Worlds/Assets/Metal-Aluminium.mat
   - fileID: 39
     classID: 21
     packedSize: 692
-    offset: 143032
+    offset: 143136
     sourceAssetGUID: a0310f7b0458873458b2b32a60922dff
     buildTimeAssetPath: Assets/Worlds/Assets/New Material 2.mat
   - fileID: 40
     classID: 21
     packedSize: 688
-    offset: 143728
+    offset: 143832
     sourceAssetGUID: 1a71862819b072147ab91852a5cc7e56
     buildTimeAssetPath: Assets/Worlds/Assets/New Material.mat
   - fileID: 41
     classID: 21
     packedSize: 692
-    offset: 144416
+    offset: 144520
     sourceAssetGUID: 98bede665b443a449ae88029322f68c7
     buildTimeAssetPath: Assets/Worlds/Assets/Surface-Paint, g.mat
   - fileID: 42
     classID: 21
     packedSize: 692
-    offset: 145112
+    offset: 145216
     sourceAssetGUID: 58245dd41b82fe145bacfe2ae89a7a84
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/Materials/wood texture 1.mat
   - fileID: 43
     classID: 21
     packedSize: 692
-    offset: 145808
+    offset: 145912
     sourceAssetGUID: d4342984cd8d5c84ab6e21ac2efdf0b6
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/_Plastic_Metalic.mat
   - fileID: 44
     classID: 21
     packedSize: 692
-    offset: 146504
+    offset: 146608
     sourceAssetGUID: 48e6a30dca9560e4d97d4a4ed68e9ba2
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/_Plastic_Simple_.mat
   - fileID: 45
     classID: 21
     packedSize: 684
-    offset: 147200
+    offset: 147304
     sourceAssetGUID: c19354c2aff9e3242b6571b213e3d6cd
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/_White.mat
   - fileID: 46
     classID: 21
     packedSize: 692
-    offset: 147888
+    offset: 147992
     sourceAssetGUID: 38581d17dab8f034aad861369a7ef654
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/dbl_ctleg_001.mat
   - fileID: 47
     classID: 21
     packedSize: 708
-    offset: 148584
+    offset: 148688
     sourceAssetGUID: 8ac48029f5812bd4aa39c218a37a3026
     buildTimeAssetPath: Assets/Worlds/Assets/futuristic-desk/Materials/desk_bitch_lambert1_Metalness.mat
   - fileID: 48
     classID: 21
-    packedSize: 896
-    offset: 149296
+    packedSize: 688
+    offset: 149400
     sourceAssetGUID: 4e36ae063948e384789993b750a387b2
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/lambert11.mat
   - fileID: 49
     classID: 21
     packedSize: 684
-    offset: 150192
+    offset: 150088
     sourceAssetGUID: 1f799a28d5987ab46a2757b8654fb908
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/lambert2.mat
   - fileID: 50
     classID: 21
     packedSize: 684
-    offset: 150880
+    offset: 150776
     sourceAssetGUID: ba3060579e65f8e47945cbdea88df06b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/lambert3.mat
   - fileID: 51
     classID: 21
     packedSize: 684
-    offset: 151568
+    offset: 151464
     sourceAssetGUID: bd82363574cb61e41b0e91f0c4f3deb9
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/lambert5.mat
   - fileID: 52
     classID: 21
     packedSize: 684
-    offset: 152256
+    offset: 152152
     sourceAssetGUID: 83b28edfcea48c64f8fafc1d6751cf9e
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/lambert7.mat
   - fileID: 53
     classID: 21
-    packedSize: 892
-    offset: 152944
+    packedSize: 684
+    offset: 152840
     sourceAssetGUID: f359ffb1c3f81f64986c1df770859f24
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/lambert8.mat
   - fileID: 54
     classID: 21
-    packedSize: 892
-    offset: 153840
+    packedSize: 684
+    offset: 153528
     sourceAssetGUID: c740b7c3fba3c674d88b16d464e9eed2
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/lambert9.mat
   - fileID: 55
     classID: 21
     packedSize: 684
-    offset: 154736
+    offset: 154216
     sourceAssetGUID: 1f994d524354f394a9b7d67a2f6d7199
     buildTimeAssetPath: Assets/Worlds/Assets/rug/Materials/rug.dif.mat
   - fileID: 56
     classID: 21
     packedSize: 1140
-    offset: 155424
+    offset: 154904
     sourceAssetGUID: c815f7613a04b724089c206857e57c6a
     buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Materials/MirrorReflection.mat
   - fileID: 57
     classID: 28
     packedSize: 5564
-    offset: 156568
+    offset: 156048
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 58
     classID: 28
     packedSize: 5568
-    offset: 162136
+    offset: 161616
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 59
     classID: 28
     packedSize: 5576
-    offset: 167704
+    offset: 167184
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 60
     classID: 28
     packedSize: 25236
-    offset: 173280
+    offset: 172760
     sourceAssetGUID: 0473bbf4a1b34e043b4a408f62c44a0e
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx/doors_fbx/door_single_AO.tga
   - fileID: 61
     classID: 28
     packedSize: 349660
-    offset: 198520
+    offset: 198000
     sourceAssetGUID: 062a26ce01cb86642a4a5e558355d208
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/PauseIcon.png
   - fileID: 62
     classID: 28
     packedSize: 349664
-    offset: 548184
+    offset: 547664
     sourceAssetGUID: 0b57367304e0c224fab0e9eef953ee44
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeHighIcon.png
   - fileID: 63
     classID: 28
     packedSize: 195720
-    offset: 897848
+    offset: 897328
     sourceAssetGUID: 16a7e967ac6bd7646a91d4285d084065
     buildTimeAssetPath: Assets/bonnie.jpg
   - fileID: 64
     classID: 28
     packedSize: 95340
-    offset: 1093568
+    offset: 1093048
     sourceAssetGUID: 245c275c1aa3d0847b5a4a6052fb3cbc
     buildTimeAssetPath: Assets/Worlds/Assets/futuristic-desk/textures/desk_bitch_lambert1_Metalness.jpg
   - fileID: 65
     classID: 28
     packedSize: 349664
-    offset: 1188912
+    offset: 1188392
     sourceAssetGUID: 2a2f709a85fb9604cb69ee3540c9d618
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeLowIcon.png
   - fileID: 66
     classID: 28
     packedSize: 349656
-    offset: 1538576
+    offset: 1538056
     sourceAssetGUID: 2e770eb7fde325548bf15dea94681504
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/LockIcon.png
   - fileID: 67
     classID: 28
     packedSize: 151752
-    offset: 1888232
+    offset: 1887712
     sourceAssetGUID: 2f45083454f29e34d8e4a092e2b6e010
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Base_02/Concrete_Base_02_Base_Color.jpg
   - fileID: 68
     classID: 28
     packedSize: 29008
-    offset: 2039984
+    offset: 2039464
     sourceAssetGUID: 4d17a4de269fbee46a09e84a8e2c02c9
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx/doors_fbx/door_single_Albedo.tga
   - fileID: 69
     classID: 28
     packedSize: 8692
-    offset: 2068992
+    offset: 2068472
     sourceAssetGUID: 557d5faf1374af845b09630d3bd089eb
     buildTimeAssetPath: Assets/VRCMarker/Material/Packed Data.tga
   - fileID: 70
     classID: 28
     packedSize: 245040
-    offset: 2077688
+    offset: 2077168
     sourceAssetGUID: 565f7ac719be36e4bb36f21d90c3402b
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Brushed_01/Concrete_Brushed_01_Ambient_Occlusion.jpg
   - fileID: 71
     classID: 28
     packedSize: 86480
-    offset: 2322728
+    offset: 2322208
     sourceAssetGUID: 5df840de8d94a5646accf91d179702b0
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_WoodPattern_01/Concrete_WoodPattern_01_Height.jpg
   - fileID: 72
     classID: 28
     packedSize: 227728
-    offset: 2409208
+    offset: 2408688
     sourceAssetGUID: 5f7a2b69c75156a4dbdc27669f5b8d92
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Rough_01/Concrete_Rough_01_Ambient_Occlusion.jpg
   - fileID: 73
     classID: 28
     packedSize: 349664
-    offset: 2636936
+    offset: 2636416
     sourceAssetGUID: 699edcd6cfca9c14781e41a83a5f47ec
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeMuteIcon.png
   - fileID: 74
     classID: 28
     packedSize: 192532
-    offset: 2986600
+    offset: 2986080
     sourceAssetGUID: 74c36b0f18238674a976087ba2987dde
     buildTimeAssetPath: Assets/Worlds/Assets/rug/rug.dif.tif
   - fileID: 75
     classID: 28
     packedSize: 349688
-    offset: 3179136
+    offset: 3178616
     sourceAssetGUID: 79f260df5ad29734294297439017832e
     buildTimeAssetPath: Assets/VRCMarker/Material/Decal.psd
   - fileID: 76
     classID: 28
     packedSize: 88688
-    offset: 3528824
+    offset: 3528304
     sourceAssetGUID: 8490158161d59ff469c302eea504b193
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/wood texture 1.jpg
   - fileID: 77
     classID: 28
     packedSize: 5176
-    offset: 3617512
+    offset: 3616992
     sourceAssetGUID: 92cd451b599b7e945a69a4cd0c48129c
     buildTimeAssetPath: Assets/download (3).png
   - fileID: 78
     classID: 28
     packedSize: 2796324
-    offset: 3622688
+    offset: 3622168
     sourceAssetGUID: 9f116fca15c6f2440a44d2bd2f75d747
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/props_Normal.tga
   - fileID: 79
     classID: 28
     packedSize: 349656
-    offset: 6419016
+    offset: 6418496
     sourceAssetGUID: aba612f742b6fd54bad52ffb4cd44f99
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/LoopIcon.png
   - fileID: 80
     classID: 28
     packedSize: 349660
-    offset: 6768672
+    offset: 6768152
     sourceAssetGUID: b123dd9c318d33c469f08575ed5d0101
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/ReloadIcon.png
   - fileID: 81
     classID: 28
     packedSize: 264416
-    offset: 7118336
+    offset: 7117816
     sourceAssetGUID: b33c818ea7647394f8a9f383f02004d7
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Brushed_01/Concrete_Brushed_01_Normal.jpg
   - fileID: 82
     classID: 28
     packedSize: 171868
-    offset: 7382752
+    offset: 7382232
     sourceAssetGUID: b9282896111847b42b2ad38a40104661
     buildTimeAssetPath: Assets/Worlds/Assets/Materials/Concrete_Rough_01/Concrete_Rough_01_Roughness.jpg
   - fileID: 83
     classID: 28
     packedSize: 349656
-    offset: 7554624
+    offset: 7554104
     sourceAssetGUID: bae40aa052ac7ed479e6d3444c2e5a75
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/PlayIcon.png
   - fileID: 84
     classID: 28
     packedSize: 233092
-    offset: 7904280
+    offset: 7903760
     sourceAssetGUID: cbb957b9146c43449878df062878f0b8
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/New Folder/3213. Free 3D Armchair
       Model Download (1)/3213. Free 3D Armchair Model Download/maps/14_2_4_b.jpg
   - fileID: 85
     classID: 28
     packedSize: 349660
-    offset: 8137376
+    offset: 8136856
     sourceAssetGUID: d26a5d7f84a7ab54c937b98e631663a1
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/UnlockIcon.png
   - fileID: 86
     classID: 28
     packedSize: 148248
-    offset: 8487040
+    offset: 8486520
     sourceAssetGUID: d5dda72e6c6c4b5458619881660b4294
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx/doors_fbx/wire_Roughness.tga
   - fileID: 87
     classID: 28
     packedSize: 276
-    offset: 8635288
+    offset: 8634768
     sourceAssetGUID: e5b174a8d905de44d938cdd3adf85546
     buildTimeAssetPath: Assets/USharpVideo/Textures/BlackSwatch.png
   - fileID: 88
     classID: 28
     packedSize: 349656
-    offset: 8635568
+    offset: 8635048
     sourceAssetGUID: e6225dac30a73a347b7ff0bf743f639f
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/StopIcon.png
   - fileID: 89
     classID: 28
     packedSize: 349664
-    offset: 8985224
+    offset: 8984704
     sourceAssetGUID: eb116d1688b9cac4fb160c69bd6e9690
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeOffIcon.png
   - fileID: 90
     classID: 28
     packedSize: 349656
-    offset: 9334888
+    offset: 9334368
     sourceAssetGUID: f16a414e2d147a94ab3d8a9e5ad2e28e
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/InfoIcon.png
   - fileID: 91
     classID: 28
     packedSize: 2796332
-    offset: 9684544
+    offset: 9684024
     sourceAssetGUID: fae4b1f7d76ecfc46b049b1572a6b7a9
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/window_frame_Normal.tga
   - fileID: 92
     classID: 43
     packedSize: 361640
-    offset: 12480880
+    offset: 12480360
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 93
     classID: 43
     packedSize: 7764
-    offset: 12842520
+    offset: 12842000
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 94
     classID: 43
     packedSize: 1244
-    offset: 12850288
+    offset: 12849768
     sourceAssetGUID: 76881efd98a491f4f8aae73573d7314d
     buildTimeAssetPath: Assets/Worlds/Assets/whiteBoard.fbx
   - fileID: 95
     classID: 43
     packedSize: 116468
-    offset: 12851536
+    offset: 12851016
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 96
     classID: 43
     packedSize: 88976
-    offset: 12968008
+    offset: 12967488
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 97
     classID: 43
     packedSize: 118672
-    offset: 13056984
+    offset: 13056464
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 98
     classID: 43
     packedSize: 46072
-    offset: 13175656
+    offset: 13175136
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 99
     classID: 43
     packedSize: 2104
-    offset: 13221728
+    offset: 13221208
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 100
     classID: 43
     packedSize: 7764
-    offset: 13223832
+    offset: 13223312
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 101
     classID: 43
     packedSize: 2104
-    offset: 13231600
+    offset: 13231080
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 102
     classID: 43
     packedSize: 44088
-    offset: 13233704
+    offset: 13233184
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 103
     classID: 43
     packedSize: 47620
-    offset: 13277792
+    offset: 13277272
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 104
     classID: 43
     packedSize: 20696
-    offset: 13325416
+    offset: 13324896
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 105
     classID: 43
     packedSize: 73672
-    offset: 13346112
+    offset: 13345592
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 106
     classID: 43
     packedSize: 112060
-    offset: 13419784
+    offset: 13419264
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 107
     classID: 43
     packedSize: 3984
-    offset: 13531848
+    offset: 13531328
     sourceAssetGUID: 5bf3d011255fe9048811cbc78cc1dea3
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/O&C_COFFEE TABLE_1200x600x450.fbx
   - fileID: 108
     classID: 43
     packedSize: 4956
-    offset: 13535832
+    offset: 13535312
     sourceAssetGUID: f6c8ae9480292044c9990dde270e7906
     buildTimeAssetPath: Assets/Worlds/Assets/Locker1.fbx
   - fileID: 109
     classID: 43
     packedSize: 75820
-    offset: 13540792
+    offset: 13540272
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 110
     classID: 43
     packedSize: 3984
-    offset: 13616616
+    offset: 13616096
     sourceAssetGUID: 5bf3d011255fe9048811cbc78cc1dea3
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/O&C_COFFEE TABLE_1200x600x450.fbx
   - fileID: 111
     classID: 43
     packedSize: 274460
-    offset: 13620600
+    offset: 13620080
     sourceAssetGUID: a79a50634375466418f383a04d584043
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/uploads_files_1931991_Dining+table+round+for+4+people
       1.FBX
   - fileID: 112
     classID: 43
     packedSize: 44088
-    offset: 13895064
+    offset: 13894544
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 113
     classID: 43
     packedSize: 43144
-    offset: 13939152
+    offset: 13938632
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 114
     classID: 43
     packedSize: 61076
-    offset: 13982296
+    offset: 13981776
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 115
     classID: 43
     packedSize: 117328
-    offset: 14043376
+    offset: 14042856
     sourceAssetGUID: 223c1991d56501e4f813572b33b5a1a5
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/officechair-3db3-32123/office
       chair/office chair fbx.FBX
   - fileID: 116
     classID: 43
     packedSize: 17364
-    offset: 14160704
+    offset: 14160184
     sourceAssetGUID: 57f3e07c4c8a84e46b6543bd8d11e8eb
     buildTimeAssetPath: Assets/VRCMarker/Mesh/marker.fbx
   - fileID: 117
     classID: 43
     packedSize: 77396
-    offset: 14178072
+    offset: 14177552
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 118
     classID: 43
     packedSize: 2552
-    offset: 14255472
+    offset: 14254952
     sourceAssetGUID: de826069a67674449995510421c6b4cd
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/3d-model.3ds
   - fileID: 119
     classID: 43
     packedSize: 37108
-    offset: 14258024
+    offset: 14257504
     sourceAssetGUID: 59d491ff82b6f884388653252303af4d
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/doors.fbx
   - fileID: 120
     classID: 43
     packedSize: 134348
-    offset: 14295136
+    offset: 14294616
     sourceAssetGUID: 159ae2003f6ddc148943d6f107a9486e
     buildTimeAssetPath: Assets/Worlds/Assets/futuristic-desk/source/desk_bitch.fbx
   - fileID: 121
     classID: 43
     packedSize: 5736
-    offset: 14429488
+    offset: 14428968
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 122
     classID: 43
     packedSize: 170928
-    offset: 14435224
+    offset: 14434704
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 123
     classID: 43
     packedSize: 76200
-    offset: 14606152
+    offset: 14605632
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 124
     classID: 43
     packedSize: 116468
-    offset: 14682352
+    offset: 14681832
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 125
     classID: 43
     packedSize: 1572
-    offset: 14798824
+    offset: 14798304
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 126
     classID: 43
     packedSize: 271724
-    offset: 14800400
+    offset: 14799880
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 127
     classID: 43
     packedSize: 188080
-    offset: 15072128
+    offset: 15071608
     sourceAssetGUID: 65a9319fc2c9adf45bf234af40bce178
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/BoConcept Imola armchair/export/Imola
       armchair.FBX
   - fileID: 128
     classID: 43
     packedSize: 271428
-    offset: 15260208
+    offset: 15259688
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 129
     classID: 43
     packedSize: 75820
-    offset: 15531640
+    offset: 15531120
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 130
     classID: 43
     packedSize: 43296
-    offset: 15607464
+    offset: 15606944
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 131
     classID: 43
     packedSize: 44184
-    offset: 15650760
+    offset: 15650240
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 132
     classID: 43
     packedSize: 78536
-    offset: 15694944
+    offset: 15694424
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 133
     classID: 43
     packedSize: 90040
-    offset: 15773480
+    offset: 15772960
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 134
     classID: 43
     packedSize: 118672
-    offset: 15863520
+    offset: 15863000
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 135
     classID: 43
     packedSize: 101708
-    offset: 15982192
+    offset: 15981672
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 136
     classID: 43
     packedSize: 7231240
-    offset: 16083904
+    offset: 16083384
     sourceAssetGUID: 223c1991d56501e4f813572b33b5a1a5
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/officechair-3db3-32123/office
       chair/office chair fbx.FBX
   - fileID: 137
     classID: 43
     packedSize: 17308
-    offset: 23315144
+    offset: 23314624
     sourceAssetGUID: 5bf3d011255fe9048811cbc78cc1dea3
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/O&C_COFFEE TABLE_1200x600x450.fbx
   - fileID: 138
     classID: 43
     packedSize: 110664
-    offset: 23332456
+    offset: 23331936
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 139
     classID: 43
     packedSize: 43448
-    offset: 23443120
+    offset: 23442600
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 140
     classID: 43
     packedSize: 73468
-    offset: 23486568
+    offset: 23486048
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 141
     classID: 43
     packedSize: 43448
-    offset: 23560040
+    offset: 23559520
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 142
     classID: 43
     packedSize: 43448
-    offset: 23603488
+    offset: 23602968
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 143
     classID: 43
     packedSize: 61076
-    offset: 23646936
+    offset: 23646416
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 144
     classID: 43
     packedSize: 1881196
-    offset: 23708016
+    offset: 23707496
     sourceAssetGUID: 4d27c64e4c5900c4abd32acc7cf68300
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/106503.53aa6acc085d2/HUG ARMCHAIR
       602.014/HUG ARMCHAIR.obj
   - fileID: 145
     classID: 43
     packedSize: 61076
-    offset: 25589216
+    offset: 25588696
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 146
     classID: 43
     packedSize: 61076
-    offset: 25650296
+    offset: 25649776
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 147
     classID: 43
     packedSize: 1316
-    offset: 25711376
+    offset: 25710856
     sourceAssetGUID: e1983cc75feda9f49993a906a2ea38e9
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/Office Table.obj
   - fileID: 148
     classID: 43
     packedSize: 22724
-    offset: 25712696
+    offset: 25712176
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 149
     classID: 43
     packedSize: 4680
-    offset: 25735424
+    offset: 25734904
     sourceAssetGUID: 5bf3d011255fe9048811cbc78cc1dea3
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/O&C_COFFEE TABLE_1200x600x450.fbx
   - fileID: 150
     classID: 43
     packedSize: 361596
-    offset: 25740104
+    offset: 25739584
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 151
     classID: 43
     packedSize: 584
-    offset: 26101704
+    offset: 26101184
     sourceAssetGUID: 5bf3d011255fe9048811cbc78cc1dea3
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/O&C_COFFEE TABLE_1200x600x450.fbx
   - fileID: 152
     classID: 43
     packedSize: 6628
-    offset: 26102288
+    offset: 26101768
     sourceAssetGUID: a79a50634375466418f383a04d584043
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/uploads_files_1931991_Dining+table+round+for+4+people
       1.FBX
   - fileID: 153
     classID: 43
     packedSize: 1532
-    offset: 26108920
+    offset: 26108400
     sourceAssetGUID: e1983cc75feda9f49993a906a2ea38e9
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/Office Table.obj
   - fileID: 154
     classID: 43
     packedSize: 73468
-    offset: 26110456
+    offset: 26109936
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 155
     classID: 43
     packedSize: 2792
-    offset: 26183928
+    offset: 26183408
     sourceAssetGUID: de826069a67674449995510421c6b4cd
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/3d-model.3ds
   - fileID: 156
     classID: 43
     packedSize: 57732
-    offset: 26186720
+    offset: 26186200
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 157
     classID: 43
     packedSize: 43144
-    offset: 26244456
+    offset: 26243936
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 158
     classID: 43
     packedSize: 43296
-    offset: 26287600
+    offset: 26287080
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 159
     classID: 43
     packedSize: 271724
-    offset: 26330896
+    offset: 26330376
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 160
     classID: 43
     packedSize: 20960
-    offset: 26602624
+    offset: 26602104
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 161
     classID: 43
     packedSize: 7764
-    offset: 26623584
+    offset: 26623064
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 162
     classID: 43
     packedSize: 101740
-    offset: 26631352
+    offset: 26630832
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 163
     classID: 43
     packedSize: 76200
-    offset: 26733096
+    offset: 26732576
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 164
     classID: 43
     packedSize: 61076
-    offset: 26809296
+    offset: 26808776
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 165
     classID: 43
     packedSize: 35300
-    offset: 26870376
+    offset: 26869856
     sourceAssetGUID: 59d491ff82b6f884388653252303af4d
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/doors.fbx
   - fileID: 166
     classID: 43
     packedSize: 78536
-    offset: 26905680
+    offset: 26905160
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 167
     classID: 43
     packedSize: 2128
-    offset: 26984216
+    offset: 26983696
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 168
     classID: 43
     packedSize: 2108
-    offset: 26986344
+    offset: 26985824
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 169
     classID: 43
     packedSize: 272020
-    offset: 26988456
+    offset: 26987936
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 170
     classID: 43
     packedSize: 82044
-    offset: 27260480
+    offset: 27259960
     sourceAssetGUID: a79a50634375466418f383a04d584043
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/uploads_files_1931991_Dining+table+round+for+4+people
       1.FBX
   - fileID: 171
     classID: 43
     packedSize: 110664
-    offset: 27342528
+    offset: 27342008
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 172
     classID: 43
     packedSize: 1422016
-    offset: 27453192
+    offset: 27452672
     sourceAssetGUID: 65a9319fc2c9adf45bf234af40bce178
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/BoConcept Imola armchair/export/Imola
       armchair.FBX
   - fileID: 173
     classID: 43
     packedSize: 42992
-    offset: 28875208
+    offset: 28874688
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 174
     classID: 43
     packedSize: 1588
-    offset: 28918200
+    offset: 28917680
     sourceAssetGUID: 59d491ff82b6f884388653252303af4d
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/doors.fbx
   - fileID: 175
     classID: 43
     packedSize: 47224
-    offset: 28919792
+    offset: 28919272
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 176
     classID: 43
     packedSize: 44184
-    offset: 28967016
+    offset: 28966496
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 177
     classID: 43
     packedSize: 271428
-    offset: 29011200
+    offset: 29010680
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 178
     classID: 43
     packedSize: 118672
-    offset: 29282632
+    offset: 29282112
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 179
     classID: 43
     packedSize: 449872
-    offset: 29401304
+    offset: 29400784
     sourceAssetGUID: 223c1991d56501e4f813572b33b5a1a5
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/officechair-3db3-32123/office
       chair/office chair fbx.FBX
   - fileID: 180
     classID: 43
     packedSize: 361748
-    offset: 29851176
+    offset: 29850656
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 181
     classID: 43
     packedSize: 5996
-    offset: 30212928
+    offset: 30212408
     sourceAssetGUID: 76881efd98a491f4f8aae73573d7314d
     buildTimeAssetPath: Assets/Worlds/Assets/whiteBoard.fbx
   - fileID: 182
     classID: 43
     packedSize: 110664
-    offset: 30218928
+    offset: 30218408
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 183
     classID: 43
     packedSize: 112060
-    offset: 30329592
+    offset: 30329072
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 184
     classID: 43
     packedSize: 1244
-    offset: 30441656
+    offset: 30441136
     sourceAssetGUID: 76881efd98a491f4f8aae73573d7314d
     buildTimeAssetPath: Assets/Worlds/Assets/whiteBoard.fbx
   - fileID: 185
     classID: 43
     packedSize: 165000
-    offset: 30442904
+    offset: 30442384
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 186
     classID: 43
     packedSize: 74836
-    offset: 30607904
+    offset: 30607384
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 187
     classID: 43
     packedSize: 922192
-    offset: 30682744
+    offset: 30682224
     sourceAssetGUID: 65a9319fc2c9adf45bf234af40bce178
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/BoConcept Imola armchair/export/Imola
       armchair.FBX
   - fileID: 188
     classID: 43
     packedSize: 361748
-    offset: 31604936
+    offset: 31604416
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 189
     classID: 43
     packedSize: 2128
-    offset: 31966688
+    offset: 31966168
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 190
     classID: 43
     packedSize: 74836
-    offset: 31968816
+    offset: 31968296
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 191
     classID: 43
     packedSize: 361640
-    offset: 32043656
+    offset: 32043136
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 192
     classID: 43
     packedSize: 170928
-    offset: 32405296
+    offset: 32404776
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 193
     classID: 43
     packedSize: 15126164
-    offset: 32576224
+    offset: 32575704
     sourceAssetGUID: 223c1991d56501e4f813572b33b5a1a5
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/officechair-3db3-32123/office
       chair/office chair fbx.FBX
   - fileID: 194
     classID: 43
     packedSize: 4680
-    offset: 47702392
+    offset: 47701872
     sourceAssetGUID: 5bf3d011255fe9048811cbc78cc1dea3
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/O&C_COFFEE TABLE_1200x600x450.fbx
   - fileID: 195
     classID: 43
     packedSize: 74836
-    offset: 47707072
+    offset: 47706552
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 196
     classID: 43
     packedSize: 116468
-    offset: 47781912
+    offset: 47781392
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 197
     classID: 43
     packedSize: 42992
-    offset: 47898384
+    offset: 47897864
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 198
     classID: 43
     packedSize: 1240
-    offset: 47941376
+    offset: 47940856
     sourceAssetGUID: 76881efd98a491f4f8aae73573d7314d
     buildTimeAssetPath: Assets/Worlds/Assets/whiteBoard.fbx
   - fileID: 199
     classID: 43
     packedSize: 4680
-    offset: 47942616
+    offset: 47942096
     sourceAssetGUID: 5bf3d011255fe9048811cbc78cc1dea3
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/O&C_COFFEE TABLE_1200x600x450.fbx
   - fileID: 200
     classID: 43
     packedSize: 7116
-    offset: 47947296
+    offset: 47946776
     sourceAssetGUID: e1983cc75feda9f49993a906a2ea38e9
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/Office Table.obj
   - fileID: 201
     classID: 43
     packedSize: 55984
-    offset: 47954416
+    offset: 47953896
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 202
     classID: 43
     packedSize: 1528
-    offset: 48010400
+    offset: 48009880
     sourceAssetGUID: e1983cc75feda9f49993a906a2ea38e9
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/Office Table.obj
   - fileID: 203
     classID: 43
     packedSize: 186428
-    offset: 48011928
+    offset: 48011408
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 204
     classID: 43
     packedSize: 170928
-    offset: 48198360
+    offset: 48197840
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 205
     classID: 43
     packedSize: 1572
-    offset: 48369288
+    offset: 48368768
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 206
     classID: 43
     packedSize: 43144
-    offset: 48370864
+    offset: 48370344
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 207
     classID: 43
     packedSize: 1240
-    offset: 48414008
+    offset: 48413488
     sourceAssetGUID: 76881efd98a491f4f8aae73573d7314d
     buildTimeAssetPath: Assets/Worlds/Assets/whiteBoard.fbx
   - fileID: 208
     classID: 43
     packedSize: 16792
-    offset: 48415248
+    offset: 48414728
     sourceAssetGUID: 59d491ff82b6f884388653252303af4d
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/doors.fbx
   - fileID: 209
     classID: 43
     packedSize: 76200
-    offset: 48432040
+    offset: 48431520
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 210
     classID: 43
     packedSize: 110664
-    offset: 48508240
+    offset: 48507720
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 211
     classID: 43
     packedSize: 165000
-    offset: 48618904
+    offset: 48618384
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 212
     classID: 43
     packedSize: 61076
-    offset: 48783904
+    offset: 48783384
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 213
     classID: 43
     packedSize: 19988
-    offset: 48844984
+    offset: 48844464
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 214
     classID: 43
     packedSize: 3120
-    offset: 48864976
+    offset: 48864456
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 215
     classID: 43
     packedSize: 78536
-    offset: 48868096
+    offset: 48867576
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 216
     classID: 43
-    packedSize: 780
-    offset: 48946632
+    packedSize: 1100
+    offset: 48946112
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 217
     classID: 43
     packedSize: 2932
-    offset: 48947416
+    offset: 48947216
     sourceAssetGUID: de826069a67674449995510421c6b4cd
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/3d-model.3ds
   - fileID: 218
     classID: 43
-    packedSize: 612
-    offset: 48950352
+    packedSize: 740
+    offset: 48950152
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 219
     classID: 43
-    packedSize: 612
-    offset: 48950968
+    packedSize: 740
+    offset: 48950896
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 220
     classID: 43
     packedSize: 165000
-    offset: 48951584
+    offset: 48951640
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 221
     classID: 43
     packedSize: 43296
-    offset: 49116584
+    offset: 49116640
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 222
     classID: 43
     packedSize: 4680
-    offset: 49159880
+    offset: 49159936
     sourceAssetGUID: 5bf3d011255fe9048811cbc78cc1dea3
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/O&C_COFFEE TABLE_1200x600x450.fbx
   - fileID: 223
     classID: 43
     packedSize: 13532
-    offset: 49164560
+    offset: 49164616
     sourceAssetGUID: e1983cc75feda9f49993a906a2ea38e9
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/Office Table.obj
   - fileID: 224
     classID: 43
     packedSize: 16792
-    offset: 49178096
+    offset: 49178152
     sourceAssetGUID: 59d491ff82b6f884388653252303af4d
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/doors.fbx
   - fileID: 225
     classID: 43
     packedSize: 77396
-    offset: 49194888
+    offset: 49194944
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 226
     classID: 43
     packedSize: 361748
-    offset: 49272288
+    offset: 49272344
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 227
     classID: 43
     packedSize: 49640
-    offset: 49634040
+    offset: 49634096
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 228
     classID: 43
     packedSize: 5736
-    offset: 49683680
+    offset: 49683736
     sourceAssetGUID: 9abfce24f6876874ca4f9516ae90e028
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/Other doors/door (2).fbx
   - fileID: 229
     classID: 43
     packedSize: 271428
-    offset: 49689416
+    offset: 49689472
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 230
     classID: 43
     packedSize: 90116
-    offset: 49960848
+    offset: 49960904
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 231
     classID: 43
     packedSize: 6308
-    offset: 50050968
+    offset: 50051024
     sourceAssetGUID: 223c1991d56501e4f813572b33b5a1a5
     buildTimeAssetPath: Assets/Worlds/Assets/Chairs/officechair-3db3-32123/office
       chair/office chair fbx.FBX
   - fileID: 232
     classID: 43
     packedSize: 28092
-    offset: 50057280
+    offset: 50057336
     sourceAssetGUID: f6c8ae9480292044c9990dde270e7906
     buildTimeAssetPath: Assets/Worlds/Assets/Locker1.fbx
   - fileID: 233
     classID: 43
     packedSize: 42992
-    offset: 50085376
+    offset: 50085432
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 234
     classID: 43
     packedSize: 25972
-    offset: 50128368
+    offset: 50128424
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 235
     classID: 43
     packedSize: 22532
-    offset: 50154344
+    offset: 50154400
     sourceAssetGUID: bb6c566cbf4fdb4498ac755b6ff4628b
     buildTimeAssetPath: Assets/Worlds/Assets/office-desk (1)/source/table.fbx
   - fileID: 236
     classID: 43
     packedSize: 35300
-    offset: 50176880
+    offset: 50176936
     sourceAssetGUID: 59d491ff82b6f884388653252303af4d
     buildTimeAssetPath: Assets/Worlds/Assets/Doors/doors_fbx 1/doors.fbx
   - fileID: 237
     classID: 43
     packedSize: 73468
-    offset: 50212184
+    offset: 50212240
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 238
     classID: 43
     packedSize: 2609440
-    offset: 50285656
+    offset: 50285712
     sourceAssetGUID: e69771ff96ca52b4b8b944e5212ee9f7
     buildTimeAssetPath: Assets/Worlds/Assets/rug/uploads_files_3418527_51072_StrellaRug_Grey.FBX
   - fileID: 239
     classID: 43
     packedSize: 544
-    offset: 52895096
+    offset: 52895152
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 240
     classID: 43
     packedSize: 75820
-    offset: 52895640
+    offset: 52895696
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 241
     classID: 43
     packedSize: 77396
-    offset: 52971464
+    offset: 52971520
     sourceAssetGUID: f03d415ba8e576e4981dc7053cf1e7a4
     buildTimeAssetPath: Assets/Worlds/Assets/Tables/AnyConv.com__uploads_files_917189_conference_table.fbx
   - fileID: 242
     classID: 43
     packedSize: 404
-    offset: 53048864
+    offset: 53048920
     sourceAssetGUID: 76902e69abfee5b4096a3175c5f69c2d
     buildTimeAssetPath: "Assets/Worlds/Assets/Chairs/bejot-krzes\xEAo-KYOS-KY-220-2N.3ds"
   - fileID: 243
     classID: 48
     packedSize: 317808
-    offset: 53049272
+    offset: 53049328
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 244
     classID: 48
     packedSize: 17800
-    offset: 53367080
+    offset: 53367136
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 245
     classID: 48
     packedSize: 72720
-    offset: 53384880
+    offset: 53384936
     sourceAssetGUID: 0b7113dea2069fc4e8943843eff19f70
     buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-StandardLite.shader
   - fileID: 246
     classID: 48
     packedSize: 17176
-    offset: 53457600
+    offset: 53457656
     sourceAssetGUID: 2dcd9e0568e0a6f45b92c60ba2eb16a0
     buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Diffuse.shader
   - fileID: 247
     classID: 48
     packedSize: 512104
-    offset: 53474776
+    offset: 53474832
     sourceAssetGUID: 412ea878efbed224d97338aed34a773c
     buildTimeAssetPath: Assets/USharpVideo/Shaders/StandardVideoEmissive.shader
   - fileID: 248
     classID: 48
     packedSize: 176080
-    offset: 53986880
+    offset: 53986936
     sourceAssetGUID: 5f663610cc73b4f4ca8761c64e7659fe
     buildTimeAssetPath: Assets/VRCMarker/Shader/Marker.shader
   - fileID: 249
     classID: 48
     packedSize: 7108
-    offset: 54162960
+    offset: 54163016
     sourceAssetGUID: 693137b858e4dc64c83be531351f45e6
     buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mirror.shader
   - fileID: 250
     classID: 48
     packedSize: 7628
-    offset: 54170072
+    offset: 54170128
     sourceAssetGUID: 9d61949da4bd1b545b4fdacba6dfb5da
     buildTimeAssetPath: Assets/USharpVideo/Shaders/UI-MerlinUI.shader
   - fileID: 251
     classID: 48
     packedSize: 7072
-    offset: 54177704
+    offset: 54177760
     sourceAssetGUID: af0dc8b09e160004385a14f815a3aa3c
     buildTimeAssetPath: Assets/VRCMarker/Shader/Trail Renderer.shader
   - fileID: 252
-    classID: 48
-    packedSize: 6524
-    offset: 54184776
-    sourceAssetGUID: d5b89f0c74ccf5049ba803c14a090378
-    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Particle-Multiply.shader
+    classID: 74
+    packedSize: 2368
+    offset: 54184832
+    sourceAssetGUID: ea8077da5766357479dd3ebf31da098c
+    buildTimeAssetPath: Assets/USharpVideo/Animations/InterpTo0.anim
   - fileID: 253
     classID: 74
     packedSize: 2368
-    offset: 54191304
-    sourceAssetGUID: ea8077da5766357479dd3ebf31da098c
-    buildTimeAssetPath: Assets/USharpVideo/Animations/InterpTo0.anim
-  - fileID: 254
-    classID: 74
-    packedSize: 2368
-    offset: 54193672
+    offset: 54187200
     sourceAssetGUID: 599105a1454742644906304ddb0562cd
     buildTimeAssetPath: Assets/USharpVideo/Animations/InterpTo1.anim
-  - fileID: 255
+  - fileID: 254
     classID: 74
     packedSize: 2864
-    offset: 54196040
+    offset: 54189568
     sourceAssetGUID: 6b22cd66ca95bcd468f2f47441c00582
     buildTimeAssetPath: Assets/USharpVideo/Animations/ReloadRotate.anim
-  - fileID: 256
+  - fileID: 255
     classID: 91
     packedSize: 840
-    offset: 54198904
+    offset: 54192432
     sourceAssetGUID: 3508d1b4f8de760439c5a1dd8cebf4f6
     buildTimeAssetPath: Assets/USharpVideo/Animations/ReloadButton.controller
-  - fileID: 257
+  - fileID: 256
     classID: 91
     packedSize: 1232
-    offset: 54199744
+    offset: 54193272
     sourceAssetGUID: 43d010a9dfd9d934db896b3ca4f95eeb
     buildTimeAssetPath: Assets/USharpVideo/Animations/SliderController.controller
-  - fileID: 258
+  - fileID: 257
     classID: 115
     packedSize: 120
-    offset: 114224
+    offset: 114192
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 258
+    classID: 115
+    packedSize: 100
+    offset: 114312
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 259
     classID: 115
-    packedSize: 100
-    offset: 114344
+    packedSize: 120
+    offset: 114416
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 260
     classID: 115
-    packedSize: 120
-    offset: 114448
+    packedSize: 92
+    offset: 114536
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 261
     classID: 115
-    packedSize: 92
-    offset: 114568
-    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
-  - fileID: 262
-    classID: 115
     packedSize: 96
-    offset: 114664
+    offset: 114632
     sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
     buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRCCore-Editor.dll
+  - fileID: 262
+    classID: 115
+    packedSize: 116
+    offset: 114728
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 263
     classID: 115
     packedSize: 116
-    offset: 114760
+    offset: 114848
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 264
     classID: 115
-    packedSize: 116
-    offset: 114880
+    packedSize: 100
+    offset: 114968
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 265
     classID: 115
-    packedSize: 100
-    offset: 115000
+    packedSize: 108
+    offset: 115072
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 266
     classID: 115
     packedSize: 108
-    offset: 115104
+    offset: 115184
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 267
     classID: 115
-    packedSize: 108
-    offset: 115216
-    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
-  - fileID: 268
-    classID: 115
     packedSize: 96
-    offset: 115328
+    offset: 115296
     sourceAssetGUID: 0cd44c1031e13a943bb63640046fad76
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
-  - fileID: 269
+  - fileID: 268
     classID: 115
     packedSize: 92
-    offset: 115424
+    offset: 115392
     sourceAssetGUID: 27ce5d32713d91c4e8d5a6ec9e867dcc
     buildTimeAssetPath: Assets/USharpVideo/Scripts/UI/UIStyler.cs
-  - fileID: 270
+  - fileID: 269
     classID: 115
     packedSize: 80
-    offset: 115520
+    offset: 115488
     sourceAssetGUID: 31a19414c41e5ae4aae2af33fee712f6
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Mask.cs
-  - fileID: 271
+  - fileID: 270
     classID: 115
     packedSize: 92
-    offset: 115600
+    offset: 115568
     sourceAssetGUID: 447ea4bbd35f6a541adc230420ec00c2
     buildTimeAssetPath: Assets/USharpVideo/Scripts/UI/UIStyle.cs
+  - fileID: 271
+    classID: 115
+    packedSize: 88
+    offset: 115664
+    sourceAssetGUID: 45115577ef41a5b4ca741ed302693907
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/UdonBehaviour.cs
   - fileID: 272
     classID: 115
     packedSize: 88
-    offset: 115696
-    sourceAssetGUID: 45115577ef41a5b4ca741ed302693907
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/UdonBehaviour.cs
-  - fileID: 273
-    classID: 115
-    packedSize: 88
-    offset: 115784
+    offset: 115752
     sourceAssetGUID: 4e29b1a8efbd4b44bb3f3716e73f07ff
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Button.cs
-  - fileID: 274
+  - fileID: 273
     classID: 115
     packedSize: 80
-    offset: 115872
+    offset: 115840
     sourceAssetGUID: 5f7201a12d95ffc409449d95f23cf332
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Text.cs
-  - fileID: 275
+  - fileID: 274
     classID: 115
     packedSize: 72
-    offset: 115952
+    offset: 115920
     sourceAssetGUID: 5fea29bb7c508c244a1f805a5fd3fc4d
     buildTimeAssetPath: Assets/Worlds/Assets/QuickOutline/Scripts/Outline.cs
-  - fileID: 276
+  - fileID: 275
     classID: 115
     packedSize: 88
-    offset: 116024
+    offset: 115992
     sourceAssetGUID: 67db9e8f0e2ae9c40bc1e2b64352a6b4
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Slider.cs
-  - fileID: 277
+  - fileID: 276
     classID: 115
     packedSize: 108
-    offset: 116112
+    offset: 116080
     sourceAssetGUID: 785c8954a0e481d4692a9aef33de993c
     buildTimeAssetPath: Assets/USharpVideo/Scripts/UI/UIStyleMarkup.cs
-  - fileID: 278
+  - fileID: 277
     classID: 115
     packedSize: 104
-    offset: 116224
+    offset: 116192
     sourceAssetGUID: 8a8695521f0d02e499659fee002a26c2
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/GridLayoutGroup.cs
-  - fileID: 279
+  - fileID: 278
     classID: 115
     packedSize: 128
-    offset: 116328
+    offset: 116296
     sourceAssetGUID: bf61d954ecb803046953c666facfb904
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/ProgramSources/SerializedUdonProgramAsset.cs
-  - fileID: 280
+  - fileID: 279
     classID: 115
     packedSize: 104
-    offset: 116456
+    offset: 116424
     sourceAssetGUID: d0b148fe25e99eb48b9724523833bab1
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/EventTrigger.cs
-  - fileID: 281
+  - fileID: 280
     classID: 115
     packedSize: 96
-    offset: 116560
+    offset: 116528
     sourceAssetGUID: d199490a83bb2b844b9695cbf13b01ef
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/InputField.cs
-  - fileID: 282
+  - fileID: 281
     classID: 115
     packedSize: 104
-    offset: 116656
+    offset: 116624
     sourceAssetGUID: dc42784cf147c0c48a680349fa168899
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
-  - fileID: 283
+  - fileID: 282
     classID: 115
     packedSize: 100
-    offset: 116760
+    offset: 116728
     sourceAssetGUID: fc1fe9dc9d1310144a14d02fff758553
     buildTimeAssetPath: Assets/VRCMarker/Scripts/MarkerSettings.cs
-  - fileID: 284
+  - fileID: 283
     classID: 115
     packedSize: 88
-    offset: 116864
+    offset: 116832
     sourceAssetGUID: fe87c0e1cc204ed48ad3b37840f39efc
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
-  - fileID: 285
+  - fileID: 284
     classID: 115
     packedSize: 92
-    offset: 116952
+    offset: 116920
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 285
+    classID: 115
+    packedSize: 120
+    offset: 117016
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 286
     classID: 115
-    packedSize: 120
-    offset: 117048
+    packedSize: 92
+    offset: 117136
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 287
-    classID: 115
-    packedSize: 92
-    offset: 117168
-    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
-  - fileID: 288
     classID: 213
     packedSize: 568
-    offset: 54200976
+    offset: 54194504
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 288
+    classID: 213
+    packedSize: 572
+    offset: 54195072
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 289
     classID: 213
-    packedSize: 572
-    offset: 54201544
+    packedSize: 580
+    offset: 54195648
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 290
     classID: 213
-    packedSize: 580
-    offset: 54202120
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 291
-    classID: 213
     packedSize: 1288
-    offset: 54202704
+    offset: 54196232
     sourceAssetGUID: 062a26ce01cb86642a4a5e558355d208
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/PauseIcon.png
-  - fileID: 292
+  - fileID: 291
     classID: 213
     packedSize: 1764
-    offset: 54203992
+    offset: 54197520
     sourceAssetGUID: 0b57367304e0c224fab0e9eef953ee44
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeHighIcon.png
-  - fileID: 293
+  - fileID: 292
     classID: 213
     packedSize: 1320
-    offset: 54205760
+    offset: 54199288
     sourceAssetGUID: 2a2f709a85fb9604cb69ee3540c9d618
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeLowIcon.png
-  - fileID: 294
+  - fileID: 293
     classID: 213
     packedSize: 1912
-    offset: 54207080
+    offset: 54200608
     sourceAssetGUID: 2e770eb7fde325548bf15dea94681504
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/LockIcon.png
-  - fileID: 295
+  - fileID: 294
     classID: 213
     packedSize: 1180
-    offset: 54208992
+    offset: 54202520
     sourceAssetGUID: 699edcd6cfca9c14781e41a83a5f47ec
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeMuteIcon.png
-  - fileID: 296
+  - fileID: 295
     classID: 213
     packedSize: 1068
-    offset: 54210176
+    offset: 54203704
     sourceAssetGUID: aba612f742b6fd54bad52ffb4cd44f99
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/LoopIcon.png
-  - fileID: 297
+  - fileID: 296
     classID: 213
     packedSize: 1652
-    offset: 54211248
+    offset: 54204776
     sourceAssetGUID: b123dd9c318d33c469f08575ed5d0101
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/ReloadIcon.png
-  - fileID: 298
+  - fileID: 297
     classID: 213
     packedSize: 1816
-    offset: 54212904
+    offset: 54206432
     sourceAssetGUID: bae40aa052ac7ed479e6d3444c2e5a75
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/PlayIcon.png
-  - fileID: 299
+  - fileID: 298
     classID: 213
     packedSize: 1572
-    offset: 54214720
+    offset: 54208248
     sourceAssetGUID: d26a5d7f84a7ab54c937b98e631663a1
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/UnlockIcon.png
-  - fileID: 300
+  - fileID: 299
     classID: 213
     packedSize: 1144
-    offset: 54216296
+    offset: 54209824
     sourceAssetGUID: e6225dac30a73a347b7ff0bf743f639f
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/StopIcon.png
-  - fileID: 301
+  - fileID: 300
     classID: 213
     packedSize: 1024
-    offset: 54217440
+    offset: 54210968
     sourceAssetGUID: eb116d1688b9cac4fb160c69bd6e9690
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeOffIcon.png
-  - fileID: 302
+  - fileID: 301
     classID: 213
     packedSize: 4732
-    offset: 54218464
+    offset: 54211992
     sourceAssetGUID: f16a414e2d147a94ab3d8a9e5ad2e28e
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/InfoIcon.png
-  - fileID: 303
+  - fileID: 302
     classID: 363
-    packedSize: 14464
-    offset: 54223200
+    packedSize: 14240
+    offset: 54216728
     sourceAssetGUID: be94a707544108b4cbba4e9234b6f9b7
     buildTimeAssetPath: Assets/Worlds/uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH/OcclusionCullingData.asset
-  - fileID: 304
+  - fileID: 303
     classID: 114
     packedSize: 12808
-    offset: 54237664
+    offset: 54230968
     sourceAssetGUID: 83c57d7dc88b3e943b9f91f9127699e6
     buildTimeAssetPath: Assets/SerializedUdonPrograms/081faee814bb8fc4ea7da3b58a15ea10.asset
-  - fileID: 305
+  - fileID: 304
     classID: 114
     packedSize: 36916
-    offset: 54250472
+    offset: 54243776
     sourceAssetGUID: e8602ccc5e6fe1149a5a60a046be5dbb
     buildTimeAssetPath: Assets/SerializedUdonPrograms/0cfd2b8f0262db847bfb55bab92d3218.asset
-  - fileID: 306
+  - fileID: 305
     classID: 114
     packedSize: 76288
-    offset: 54287392
+    offset: 54280696
     sourceAssetGUID: 03fb9d8f21657f64d98bb0db398c79d8
     buildTimeAssetPath: Assets/SerializedUdonPrograms/1e90e65c11b3fae4c90c1b55d4472db7.asset
-  - fileID: 307
+  - fileID: 306
     classID: 114
     packedSize: 48216
-    offset: 54363680
+    offset: 54356984
     sourceAssetGUID: 2c6df28aa917b6540a1f862d19215109
     buildTimeAssetPath: Assets/SerializedUdonPrograms/358a98096f2187c4eb0cee20115d2f3a.asset
-  - fileID: 308
+  - fileID: 307
     classID: 114
     packedSize: 199384
-    offset: 54411896
+    offset: 54405200
     sourceAssetGUID: 5ac5c0930e4a76946ac8590106555187
     buildTimeAssetPath: Assets/SerializedUdonPrograms/38d09ad51181f624dbad7d1f7286f3ed.asset
-  - fileID: 309
+  - fileID: 308
     classID: 114
     packedSize: 15372
-    offset: 54611280
+    offset: 54604584
     sourceAssetGUID: 9fe6f0a2be756c148a8c645dde92c9f8
     buildTimeAssetPath: Assets/SerializedUdonPrograms/4715e20276be3b141a6a216230cab4e9.asset
-  - fileID: 310
+  - fileID: 309
     classID: 114
     packedSize: 13460
-    offset: 54626656
+    offset: 54619960
     sourceAssetGUID: 7b65b4bbce5ca8d43a90172c5a6af87a
     buildTimeAssetPath: Assets/SerializedUdonPrograms/553f0db2752ead24590f8ac2e1f80c06.asset
-  - fileID: 311
+  - fileID: 310
     classID: 114
     packedSize: 12808
-    offset: 54640120
+    offset: 54633424
     sourceAssetGUID: bc0b9ba22a84e004cbe7fed80bfabf80
     buildTimeAssetPath: Assets/SerializedUdonPrograms/5db1782f39c9aa641af32e58a337dd73.asset
-  - fileID: 312
+  - fileID: 311
     classID: 114
     packedSize: 49488
-    offset: 54652928
+    offset: 54646232
     sourceAssetGUID: 0f57f77472f5c3348b982de04062d378
     buildTimeAssetPath: Assets/SerializedUdonPrograms/634a16e2f30096d468b8eb0204000943.asset
-  - fileID: 313
+  - fileID: 312
     classID: 114
     packedSize: 7648
-    offset: 54702416
+    offset: 54695720
     sourceAssetGUID: 6d4759fecabe335439a36af3ae6d4fa6
     buildTimeAssetPath: Assets/SerializedUdonPrograms/68d999abd6627d04999b5bebe2438687.asset
-  - fileID: 314
+  - fileID: 313
     classID: 114
     packedSize: 192996
-    offset: 54710064
+    offset: 54703368
     sourceAssetGUID: afa15bf591eeb004383837d8d0c51f16
     buildTimeAssetPath: Assets/SerializedUdonPrograms/7021d3ad08c81d54c8598190c706a0c5.asset
-  - fileID: 315
+  - fileID: 314
     classID: 114
-    packedSize: 559992
-    offset: 54903064
+    packedSize: 559876
+    offset: 54896368
     sourceAssetGUID: f5578aabb57a7e34ab07096204cc3879
     buildTimeAssetPath: Assets/SerializedUdonPrograms/71ad2ba2c082d724bbdda2d8ddd47a32.asset
-  - fileID: 316
+  - fileID: 315
     classID: 114
     packedSize: 52540
-    offset: 55463056
+    offset: 55456248
     sourceAssetGUID: bf84caa1eebe36840860e94aac5ac4cf
     buildTimeAssetPath: Assets/SerializedUdonPrograms/95d5ff063f7f1a141947c11688626df7.asset
-  - fileID: 317
+  - fileID: 316
     classID: 114
     packedSize: 18120
-    offset: 55515600
+    offset: 55508792
     sourceAssetGUID: e16809296e72707488ede2f17df4e1fb
     buildTimeAssetPath: Assets/SerializedUdonPrograms/b0c60135ec3e09e4796af91290498d4b.asset
-  - fileID: 318
+  - fileID: 317
     classID: 114
     packedSize: 17068
-    offset: 55533720
+    offset: 55526912
     sourceAssetGUID: d5198b67827f65a4b931d43360c1bc1b
     buildTimeAssetPath: Assets/SerializedUdonPrograms/c8df303ceb45ae84f85a11591f741734.asset
-  - fileID: 319
+  - fileID: 318
     classID: 114
     packedSize: 26396
-    offset: 55550792
+    offset: 55543984
     sourceAssetGUID: 2b1054e0874d6fc4b94d093f8b60d5bf
     buildTimeAssetPath: Assets/SerializedUdonPrograms/cdeaa82e9eeca4249860474b074fefa2.asset
-  - fileID: 320
+  - fileID: 319
     classID: 114
     packedSize: 13264
-    offset: 55577192
+    offset: 55570384
     sourceAssetGUID: 7b745aa89d3adb54498e28e581ca2b3c
     buildTimeAssetPath: Assets/SerializedUdonPrograms/d1dd624d11c60064996888c70d3d2ae9.asset
-  - fileID: 321
+  - fileID: 320
     classID: 114
     packedSize: 48644
-    offset: 55590456
+    offset: 55583648
     sourceAssetGUID: 40e6032ab3044f44eaa5587ee2e7eb3c
     buildTimeAssetPath: Assets/SerializedUdonPrograms/f1945e150b4800948b228fdedf0c117e.asset
-  - fileID: 322
+  - fileID: 321
     classID: 114
     packedSize: 296
-    offset: 55639104
+    offset: 55632296
     sourceAssetGUID: 55106727684a20b48a170c471208dd4a
     buildTimeAssetPath: Assets/USharpVideo/Styles/Default.asset
---- !u!641289076 &-6160132522929639855
-AudioBuildInfo:
-  m_IsAudioDisabled: 0
-  m_AudioClipCount: 0
-  m_AudioMixerCount: 0
---- !u!1126 &-3576042803536827728
-PackedAssets:
-  m_File: 4
-  m_ShortPath: CAB-8684dde4a61a81976908e677bbcc3bf9
-  m_Overhead: 4096
-  m_Contents:
-  - fileID: 1
-    classID: 142
-    packedSize: 104
-    offset: 4096
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: AssetBundle Object
-  - fileID: 2
-    classID: 290
-    packedSize: 124
-    offset: 4200
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
---- !u!668709126 &-829924187379099595
-BuiltAssetBundleInfoSet:
-  bundleInfos:
-  - bundleName: scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw
-    bundleArchiveFile: 2
-    packagedFileIndices: 0000000001000000
-  - bundleName: New Project
-    bundleArchiveFile: 5
-    packagedFileIndices: 04000000
---- !u!1125 &1
-BuildReport:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: LastBuild
-  m_Summary:
-    buildStartTime:
-      serializedVersion: 2
-      ticks: 638114806761629144
-    buildGUID: 00000000000000000000000000000000
-    platformName: Android
-    platformGroupName: Android
-    options: 16
-    assetBundleOptions: 32
-    outputPath: C:/Users/bouta/AppData/Local/Temp/DefaultCompany/New Project/scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw
-    crc: 3248332193
-    totalSize: 19432332
-    totalTimeTicks: 872750583
-    totalErrors: 0
-    totalWarnings: 10
-    buildType: 1
-    buildResult: 1
-  m_Files:
-  - path: D:/Unity Projects/Ihub-Vr/scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw/BuildPlayer-uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH
-    role: Scene
-    id: 0
-    totalSize: 6009856
-  - path: D:/Unity Projects/Ihub-Vr/scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw/BuildPlayer-uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH.sharedAssets
-    role: SharedAssets
-    id: 1
-    totalSize: 55639400
-  - path: D:/Unity Projects/Ihub-Vr/scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw
-    role: AssetBundle
-    id: 2
-    totalSize: 19426789
-  - path: D:/Unity Projects/Ihub-Vr/scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw.manifest
-    role: AssetBundleTextManifest
-    id: 3
-    totalSize: 4316
-  - path: D:/Unity Projects/Ihub-Vr/New Project/CAB-8684dde4a61a81976908e677bbcc3bf9
-    role: ResourcesFile
-    id: 4
-    totalSize: 4324
-  - path: D:/Unity Projects/Ihub-Vr/New Project
-    role: ManifestAssetBundle
-    id: 5
-    totalSize: 1043
-  - path: D:/Unity Projects/Ihub-Vr/New Project.manifest
-    role: AssetBundleTextManifest
-    id: 6
-    totalSize: 184
-  m_BuildSteps:
-  - stepName: Build Asset Bundles
-    durationTicks: 872750583
-    depth: 0
-    messages: []
-  - stepName: Calculate asset bundles to be built
-    durationTicks: 3754163
-    depth: 1
-    messages: []
-  - stepName: Compile scripts
-    durationTicks: 331116245
-    depth: 1
-    messages: []
-  - stepName: Build player
-    durationTicks: 445342290
-    depth: 1
-    messages: []
-  - stepName: Prepare assets for target platform
-    durationTicks: 2507389
-    depth: 2
-    messages:
-    - type: 2
-      content: Warning! Using antialiasing on a mobile device may decrease performance
-        severely. You can change the mobile quality settings in 'Project Settings
-        -> Quality Settings'.
-    - type: 2
-      content: Warning! Using more than 1 pixel lights on a mobile device may decrease
-        performance severely. You can change the mobile quality settings in 'Project
-        Settings -> Quality Settings'.
-  - stepName: Building scenes
-    durationTicks: 125070998
-    depth: 2
-    messages: []
-  - stepName: Building scene Assets/Worlds/uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH.unity
-    durationTicks: 125045093
-    depth: 3
-    messages:
-    - type: 2
-      content: Mesh 'HUG_Armchair_602_014' has more materials (2) than subsets (1)
-    - type: 2
-      content: Mesh 'HUG_Armchair_602_014' has more materials (2) than subsets (1)
-    - type: 2
-      content: Mesh 'HUG_Armchair_602_014' has more materials (2) than subsets (1)
-    - type: 2
-      content: Mesh 'HUG_Armchair_602_014' has more materials (2) than subsets (1)
-    - type: 2
-      content: Mesh 'HUG_Armchair_602_014' has more materials (2) than subsets (1)
-    - type: 2
-      content: Mesh 'HUG_Armchair_602_014' has more materials (2) than subsets (1)
-    - type: 2
-      content: Mesh 'HUG_Armchair_602_014' has more materials (2) than subsets (1)
-    - type: 2
-      content: Mesh 'HUG_Armchair_602_014' has more materials (2) than subsets (1)
-  - stepName: Writing asset files
-    durationTicks: 98430223
-    depth: 2
-    messages: []
-  - stepName: Packaging assets - archive:/BuildPlayer-uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH/BuildPlayer-uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH.sharedAssets
-    durationTicks: 98138611
-    depth: 3
-    messages: []
-  - stepName: Creating compressed player package
-    durationTicks: 192681821
-    depth: 2
-    messages: []
-  - stepName: Postprocess built player
-    durationTicks: 369230
-    depth: 2
-    messages: []
-  m_Appendices:
-  - {fileID: -829924187379099595}
-  - {fileID: -9200036047485485343}
-  - {fileID: 960853547942758110}
-  - {fileID: -6160132522929639855}
-  - {fileID: -3576042803536827728}
---- !u!382020655 &960853547942758110
+--- !u!382020655 &-7474949674765576897
 PluginBuildInfo:
   m_RuntimePlugins:
   - Unity.Burst.Unsafe
@@ -2186,3 +2025,144 @@ PluginBuildInfo:
   - Unity.Plastic.Antlr3.Runtime
   - Serilog.Sinks.Unity3D
   - lz4x64Plastic
+--- !u!1126 &-4990373655600501565
+PackedAssets:
+  m_File: 4
+  m_ShortPath: CAB-8684dde4a61a81976908e677bbcc3bf9
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 142
+    packedSize: 104
+    offset: 4096
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 2
+    classID: 290
+    packedSize: 124
+    offset: 4200
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
+--- !u!668709126 &-2247913011461850290
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw
+    bundleArchiveFile: 2
+    packagedFileIndices: 0000000001000000
+  - bundleName: New Project
+    bundleArchiveFile: 5
+    packagedFileIndices: 04000000
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LastBuild
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 638120906343565215
+    buildGUID: 00000000000000000000000000000000
+    platformName: Android
+    platformGroupName: Android
+    options: 16
+    assetBundleOptions: 32
+    outputPath: C:/Users/bouta/AppData/Local/Temp/DefaultCompany/New Project/scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw
+    crc: 1735078005
+    totalSize: 18468541
+    totalTimeTicks: 449776505
+    totalErrors: 0
+    totalWarnings: 2
+    buildType: 1
+    buildResult: 1
+  m_Files:
+  - path: D:/Unity Projects/Ihub-Vr/scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw/BuildPlayer-uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH
+    role: Scene
+    id: 0
+    totalSize: 4113160
+  - path: D:/Unity Projects/Ihub-Vr/scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw/BuildPlayer-uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH.sharedAssets
+    role: SharedAssets
+    id: 1
+    totalSize: 55632592
+  - path: D:/Unity Projects/Ihub-Vr/scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw
+    role: AssetBundle
+    id: 2
+    totalSize: 18462997
+  - path: D:/Unity Projects/Ihub-Vr/scene-android-uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 3
+    totalSize: 4316
+  - path: D:/Unity Projects/Ihub-Vr/New Project/CAB-8684dde4a61a81976908e677bbcc3bf9
+    role: ResourcesFile
+    id: 4
+    totalSize: 4324
+  - path: D:/Unity Projects/Ihub-Vr/New Project
+    role: ManifestAssetBundle
+    id: 5
+    totalSize: 1044
+  - path: D:/Unity Projects/Ihub-Vr/New Project.manifest
+    role: AssetBundleTextManifest
+    id: 6
+    totalSize: 184
+  m_BuildSteps:
+  - stepName: Build Asset Bundles
+    durationTicks: 449776505
+    depth: 0
+    messages: []
+  - stepName: Calculate asset bundles to be built
+    durationTicks: 728296
+    depth: 1
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 100312097
+    depth: 1
+    messages: []
+  - stepName: Build player
+    durationTicks: 274036408
+    depth: 1
+    messages:
+    - type: 3
+      content: HTTPFormUseage:UrlEncoded
+  - stepName: Prepare assets for target platform
+    durationTicks: 2164455
+    depth: 2
+    messages:
+    - type: 2
+      content: Warning! Using antialiasing on a mobile device may decrease performance
+        severely. You can change the mobile quality settings in 'Project Settings
+        -> Quality Settings'.
+    - type: 2
+      content: Warning! Using more than 1 pixel lights on a mobile device may decrease
+        performance severely. You can change the mobile quality settings in 'Project
+        Settings -> Quality Settings'.
+  - stepName: Building scenes
+    durationTicks: 100536367
+    depth: 2
+    messages: []
+  - stepName: Building scene Assets/Worlds/uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH.unity
+    durationTicks: 100512656
+    depth: 3
+    messages: []
+  - stepName: Writing asset files
+    durationTicks: 40432711
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - archive:/BuildPlayer-uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH/BuildPlayer-uhhhhhhhhhhhhhhhhHHHHHHHHHHHHHHHHHHHH.sharedAssets
+    durationTicks: 40372838
+    depth: 3
+    messages: []
+  - stepName: Creating compressed player package
+    durationTicks: 110180173
+    depth: 2
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 220178
+    depth: 2
+    messages: []
+  m_Appendices:
+  - {fileID: -2247913011461850290}
+  - {fileID: -7659427535605800398}
+  - {fileID: -7474949674765576897}
+  - {fileID: -8763727174411755068}
+  - {fileID: -4990373655600501565}
